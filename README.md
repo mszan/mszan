@@ -7,11 +7,13 @@ Hi there, I'm <b>Dawid</b>, a Junior Web Developer.
 </p>
 <p>
     <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
+    <a href="https://github.com/mszan?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-4D78C3?style=flat-square&logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/mszan?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     &nbsp;&nbsp;
     <a href="https://github.com/mszan?tab=repositories&language=html" target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
     <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
+    <img alt="LESS" src="https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white">
     &nbsp;&nbsp;
     <a href="https://github.com/mszan?tab=repositories&q=react" target="_blank"><img alt="ReactJS" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=1f1f1f"></a>
     <a href="https://github.com/mszan?tab=repositories&q=django" target="_blank"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"></a>
@@ -30,6 +32,8 @@ Hi there, I'm <b>Dawid</b>, a Junior Web Developer.
     <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple&logoColor=white">
     <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+     &nbsp;&nbsp;
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
      &nbsp;&nbsp;
     <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=white">
 <details>
