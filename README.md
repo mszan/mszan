@@ -6,7 +6,7 @@
 Hi there, I'm <b>Dawid</b>, a 21 years old Junior Web Developer and an extramural IT Management student.
 </p>
 <p>
-    <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript ES6" src="https://img.shields.io/badge/-JS%20ES6-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
+    <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
     <a href="https://github.com/mszan?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-4D78C3?style=flat-square&logo=TypeScript&logoColor=white"></a>
     <a href="https://github.com/mszan?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     &nbsp;&nbsp;
