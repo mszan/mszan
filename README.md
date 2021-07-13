@@ -6,12 +6,14 @@
 Hi there, I'm <b>Dawid</b>, a 21 years old Junior Web Developer and an extramural IT Management student.
 </p>
 <p>
-    <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
+<a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>
+        <a href="https://github.com/mszan?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+        &nbsp;&nbsp;
     <a href="https://github.com/mszan?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-4D78C3?style=flat-square&logo=TypeScript&logoColor=white"></a>
-    <a href="https://github.com/mszan?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     &nbsp;&nbsp;
-    <a href="https://github.com/mszan?tab=repositories&language=html" target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
-    <img alt="CSS 3" src="https://img.shields.io/badge/-CSS%203-1572B6?style=flat-square&logo=css3&logoColor=white">
+    <a href="https://github.com/mszan?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"></a>
+<a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=1f1f1f"></a>
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white">
     <img alt="LESS" src="https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white">
     &nbsp;&nbsp;
