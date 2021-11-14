@@ -3,7 +3,7 @@
     <a href="https://stackoverflow.com/users/13273250/dawid-mszanowski" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 </p>
 <p>
-Hi there, I'm <b>Dawid</b>, a 21 years old Junior Web Developer and an extramural IT Management student.
+Hi there, I'm <b>Dawid</b>, a 22 years old Junior Web Developer and an extramural IT Management student.
 </p>
 <p>
 <a href="https://github.com/mszan?tab=repositories&language=javascript" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>
