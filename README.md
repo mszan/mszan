@@ -1,10 +1,29 @@
-<p>
-    <a href="https://www.linkedin.com/in/dawid-mszanowski" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/13273250/dawid-mszanowski" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-</p>
-<p>
-    Hi there! I'm <b>Dawid</b>, a 24 years old <strong>Backend Engineer</strong>.
-</p>
-<p>
-    Sadly, I do not contribute to an open-source world anymore. I hope this will change in the future. Thus, please treat my repositories as an archive for my former activities. Also, please keep in mind that my abilities have changed a lot since then... :)
-</p>
+👋 Hi there, I'm Dawid!
+
+I'm a Backend Engineer committed to architecting robust and efficient systems. Collaborate with me on constructing solutions that not only scale effortlessly but also stand out for their unwavering quality!
+
+**Let's connect:**
+- 📪 dmszanowski@icloud.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dawid-mszanowski)
+- 📚 [Stack Overflow](https://stackoverflow.com/users/13273250/dawid-mszanowski)
+
+<hr>
+
+**Tech Stack:**
+- 💻 Languages: TypeScript, Python
+- 🗄 Databases: PostgreSQL, MySQL, MikroORM
+- 🌐 Frameworks: NestJS, Express
+- 🚢 Containerization: Docker
+
+**Tools:**
+- 🧪 Testing: Jest
+- 📊 Monitoring: New Relic
+- 📝 Documentation: OpenAPI, Swagger, Postman, Insomnia
+
+**Other Skills:**
+- ⚙️ Operating Systems: Linux, macOS
+- 🌈 Frontend: ReactJS
+- ☁️ Cloud: AWS, Google Cloud
+
+**Languages:**
+- 💬 English, Polish
