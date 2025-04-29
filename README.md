@@ -2,7 +2,7 @@
     Hi there!
 </p>
 <p>
-    I'm <b>Dawid</b>, a 26 years old <b>Backend Engineer</b>, bit of a nerd. I love <b>TypeScript</b>, <b>Node.js</b> and <b>NestJS</b>. Let's connect and build cool things!
+    I'm <b>Dawid</b>, a 26 years old <b>Backend Engineer</b>, bit of a nerd. I love <b>TypeScript</b>, <b>Node.js</b> and <b>NestJS</b>. Let's connect!
 </p>
 <hr>
 <p>
